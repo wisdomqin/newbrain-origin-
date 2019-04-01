@@ -17,6 +17,7 @@ ps：第一次较正式地通过这样的工具进行线上协作，可能很多
 - Jack
 - 李洁
 - 王赓某
+- 潘思明
 - 覃睿
 
 [分工讨论贴](https://github.com/wisdomqin/newbrain/issues/2)
