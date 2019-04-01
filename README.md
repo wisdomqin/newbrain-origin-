@@ -11,6 +11,8 @@ Provide a set of study guides for us in the new era
 - [协作文档撰写指南](https://github.com/OpenMindClub/Share/wiki/HbDoc)
 - [缩写规约](https://github.com/OpenMindClub/Share/wiki/HbShortRule)
 
+ps：第一次较正式地通过这样的工具进行线上协作，可能很多地方不习惯，大家相互提醒改进吧~
+
 ## 项目成员及协作分工
 - Jack
 - 李洁
