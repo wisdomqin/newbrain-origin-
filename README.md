@@ -16,4 +16,4 @@ Provide a set of study guides for us in the new era
 - 李洁
 - 王赓某
 - 覃睿
-[分工讨论贴](https://github.com/wisdomqin/newbrain/issues/2)
+- [分工讨论贴](https://github.com/wisdomqin/newbrain/issues/2)
