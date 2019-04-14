@@ -20,6 +20,9 @@ ps：第一次较正式地通过这样的工具进行线上协作，可能很多
 - 第三次会议：https://github.com/wisdomqin/newbrain/issues/10
 - 第四次会议：https://github.com/wisdomqin/newbrain/issues/17
 - 第五次会议：https://github.com/wisdomqin/newbrain/issues/20
+- 第六次会议：https://github.com/wisdomqin/newbrain/issues/23
+- 第七次会议：https://github.com/wisdomqin/newbrain/issues/24
+
 ### 中间成果
 - [issue中个人成果](https://github.com/wisdomqin/newbrain/issues?q=is%3Aissue+label%3A%E4%B8%AA%E4%BA%BA%E6%88%90%E6%9E%9C+is%3Aopen)
 - [石墨表格记录](https://shimo.im/sheets/OhLkVmAZPD81BXhC/49YJE)
